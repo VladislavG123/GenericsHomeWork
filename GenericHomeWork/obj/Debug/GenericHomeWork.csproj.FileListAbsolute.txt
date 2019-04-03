@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\bin\Debug\GenericHomeWork.exe.config
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\bin\Debug\GenericHomeWork.exe
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\bin\Debug\GenericHomeWork.pdb
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\obj\Debug\GenericHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\obj\Debug\GenericHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\obj\Debug\GenericHomeWork.exe
+C:\Users\Vlad\source\repos\GenericHomeWork\GenericHomeWork\obj\Debug\GenericHomeWork.pdb
